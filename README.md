@@ -9,13 +9,13 @@
 
 - 👨‍💻 My Portfolio [Click Here](https://cosmicishan.github.io/ishanpurohit.github.io/)
 
-- 📝 I regularly share my thoughts and ideas on philosophy through my Instagram page [https://www.instagram.com/cosmic_ishan/](https://www.instagram.com/cosmic_ishan/)
+- 📝 I regularly share my thoughts and ideas on philosophy through my Instagram page [Click Here](https://www.instagram.com/cosmic_ishan/)
 
 - 💬 Ask me about **Open CV, Kaggle Competition**
 
 - 📫 How to reach me **ipurohit7654@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dPN6wj9UNAk05kdQS4C5c8m6PNzwuyYh/view?usp=drive_link](https://drive.google.com/file/d/1dPN6wj9UNAk05kdQS4C5c8m6PNzwuyYh/view?usp=drive_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1dPN6wj9UNAk05kdQS4C5c8m6PNzwuyYh/view?usp=drive_link)
 
 - ⚡ Fun fact **I am drawn to the profound and the infinite. I find solace in deep conversations that stir the soul, and my heart beats for philosophy, religion, spirituality, and poetry—the timeless realms where meaning and mystery converge.**
 
