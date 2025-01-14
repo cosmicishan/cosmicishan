@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any research-oriented work, particularly in areas that push the boundaries of innovation and discovery.**
 
-- 👨‍💻 My Portfolio [Click Here](https://cosmicishan.github.io/ishanpurohit.github.io/)
+- 👨‍💻 My Portfolio [Click Here](https://cosmicishan.github.io/portfolio/)
 
 - 📝 I regularly share my thoughts and ideas on philosophy through my Instagram page [Click Here](https://www.instagram.com/cosmic_ishan/)
 
