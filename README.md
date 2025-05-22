@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishan Purohit</h1>
 <h3 align="center">A passionate AI/ML developer from India, pursuing a BS in Data Science at IIT Madras. I’m deeply interested in computer vision and NLP, actively seeking hackathon opportunities, having led teams in three, and looking to contribute to impactful research.</h3>
 
-- 🔭 I’m currently working on **Football Analysis**
+- 🔭 I’m currently working on **Multi Agent Frameworks**
 
-- 🌱 I’m currently learning **RAG Pipelines, Computer Vision, Fast API**
+- 🌱 I’m currently learning **Langgraph, RAG Pipelines, Computer Vision, Fast API**
 
 - 👯 I’m looking to collaborate on **Any research-oriented work, particularly in areas that push the boundaries of innovation and discovery.**
 
