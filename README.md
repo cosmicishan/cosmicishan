@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Purohit</h1>
-<h3 align="center">A passionate AI/ML developer from India, pursuing a BS in Data Science at IIT Madras. I’m deeply interested in computer vision and NLP, actively seeking hackathon opportunities, having led teams in three, and looking to contribute to impactful research.</h3>
+<h3 align="center">A passionate AI/ML developer from India, pursuing a BS in Data Science at IIT Madras. I’m deeply interested in computer vision and NLP, actively seeking hackathon opportunities, having led teams in 5, and looking to contribute to impactful research.</h3>
 
 - 👯 I’m looking to collaborate on **Any research-oriented work, particularly in areas that push the boundaries of innovation and discovery.**
 
