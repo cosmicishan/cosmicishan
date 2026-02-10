@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ipurohit7654@gmail.com**
 
-- 📄 Know about my experiences [Click Here]([https://drive.google.com/file/d/1dPN6wj9UNAk05kdQS4C5c8m6PNzwuyYh/view?usp=drive_link](https://drive.google.com/drive/folders/1uPP3yo0_u6V80ASBIWNztgfJPqnhexpj?usp=drive_link))
+- 📄 Know about my experiences [Click Here](https://drive.google.com/drive/folders/1uPP3yo0_u6V80ASBIWNztgfJPqnhexpj?usp=drive_link)
 
 - ⚡ Fun fact **I am drawn to the profound and the infinite. I find solace in deep conversations that stir the soul, and my heart beats for philosophy, religion, spirituality, and poetry—the timeless realms where meaning and mystery converge.**
 
